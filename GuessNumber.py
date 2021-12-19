@@ -1,5 +1,7 @@
 #!/usr/bin/env python3.10
 
+# User guess a number in random number between 1 and 99
+
 import random
 
 small_num, big_num, random_num = None, None, None
