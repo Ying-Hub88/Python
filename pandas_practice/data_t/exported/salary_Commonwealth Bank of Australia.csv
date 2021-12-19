@@ -1,0 +1,57 @@
+,emp_id,first_name,last_name,bank_name,account_number,bank_code,bank_branch,designation,salary,currency_code,salary_AUD
+2,02-9646584,Aurel,Haycraft,Commonwealth Bank of Australia,589000000000.0,RBKS924333,Practon,Engineer,1780,EUR,2796.58
+5,53-9769394,Pierette,Machon,Commonwealth Bank of Australia,294000000000.0,WDKQ275871,Xokving,Construction Manager,2108,EUR,3311.9
+7,41-4544519,Aubrie,Clogg,Commonwealth Bank of Australia,290000000000.0,LBNZ392234,Flosa,Construction Worker,3471,EUR,5453.33
+10,95-1130934,Wendie,Ropp,Commonwealth Bank of Australia,290000000000.0,DAVA0,Agoslas,Construction Foreman,2426,USD,3302.06
+13,67-9502535,Kiel,Twatt,Commonwealth Bank of Australia,190000000000.0,BPZQ824304,Xouport,Construction Manager,3670,EUR,5765.98
+15,40-0896894,Perren,Cushion,Commonwealth Bank of Australia,802000000000.0,LWGU892408,Bikgow,Construction Worker,2450,GBP,4510.72
+18,12-8625054,Carce,Routhorn,Commonwealth Bank of Australia,341000000000.0,GVBG941217,Sario,Engineer,2928,EUR,4600.21
+21,49-7915721,Lilla,Seabourne,Commonwealth Bank of Australia,197000000000.0,WSHZ277845,Riford,Construction Expeditor,2233,EUR,3508.29
+23,22-1086753,Athene,Barthorpe,Commonwealth Bank of Australia,995000000000.0,GGAR027266,Yroiford,Architect,1221,EUR,1918.33
+26,63-2183544,Fidelity,Mutter,Commonwealth Bank of Australia,498000000000.0,KFKB015120,Strerton,Surveyor,1171,EUR,1839.77
+29,02-0535810,Christean,Mordacai,Commonwealth Bank of Australia,57962677854.0,IWEK803790,Anbuburg,Surveyor,2623,EUR,4121.02
+31,79-9459920,Clare,Leighton,Commonwealth Bank of Australia,82703913915.0,HDVD102247,Cheeding,Electrician,2357,EUR,3703.11
+34,03-8442507,Bev,Alenshev,Commonwealth Bank of Australia,107000000000.0,CFUB721813,Kroxvale,Supervisor,3729,EUR,5858.67
+37,03-3475837,D'arcy,Shirtliff,Commonwealth Bank of Australia,910000000000.0,AWCW216627,Ling,Estimator,2416,EUR,3795.8
+39,73-2772552,Efren,O'Mullally,Commonwealth Bank of Australia,393000000000.0,TZSH672763,Acolas,Electrician,3081,USD,4193.58
+42,19-5444531,Gilberte,Bradnum,Commonwealth Bank of Australia,371000000000.0,IHDE335247,Ebrudcaster,Surveyor,2733,USD,3719.92
+45,88-6894257,Chrissie,Bottoms,Commonwealth Bank of Australia,498000000000.0,JKRJ131178,Luxville,Construction Worker,2003,EUR,3146.94
+47,43-3838768,Druci,Woodhams,Commonwealth Bank of Australia,401000000000.0,UOAS057213,Block,Engineer,1726,USD,2349.28
+0,10-3168142,Padget,Beart,Commonwealth Bank of Australia,37682881889.0,OBYL892398,Srirora,Engineer,3900,EUR,6127.33
+3,35-5202611,Bordy,Goddman,Commonwealth Bank of Australia,16861205523.0,CNAM243894,Sterset,Construction Expeditor,3547,EUR,5572.73
+6,36-0544823,Coreen,Cookes,Commonwealth Bank of Australia,77547506298.0,XCCN803782,Flosa,Surveyor,3650,EUR,5734.56
+8,88-9468830,Lynelle,Hinnerk,Commonwealth Bank of Australia,29563924173.0,0HCJ685618,Estermery,Construction Expeditor,3425,EUR,5381.06
+11,77-3984532,Paula,Cruden,Commonwealth Bank of Australia,28189650597.0,VXEO866897,Kuupset,Supervisor,1404,EUR,2205.84
+14,38-6561138,Terrye,Noad,Commonwealth Bank of Australia,28066280348.0,WXXA911626,Bikgow,Construction Foreman,1699,EUR,2669.32
+16,06-0695252,Georgeta,Sommersett,Commonwealth Bank of Australia,92003907868.0,XOCQ955180,Cand,Project Manager,3788,EUR,5951.37
+19,58-9545005,Domingo,Girling,Commonwealth Bank of Australia,16007425584.0,VGYP959360,Ansson,Project Manager,1411,EUR,2216.84
+22,25-5029029,Wilow,Caney,Commonwealth Bank of Australia,82755577133.0,ZNJO533030,Yroiford,Project Manager,3210,EUR,5043.27
+24,70-6040048,Elle,Wilds,Commonwealth Bank of Australia,12199745517.0,QGXH389353,Brotdale,Project Manager,3274,EUR,5143.82
+27,70-7357237,Pandora,Barnewall,Commonwealth Bank of Australia,33899046199.0,FHLR647988,Zlario,Construction Manager,1595,EUR,2505.92
+30,50-4495782,Maureene,Sheber,Commonwealth Bank of Australia,33483861043.0,HKUB557769,Cheeding,Construction Worker,2338,EUR,3673.26
+32,16-8029019,Manya,Tichelaar,Commonwealth Bank of Australia,14105879477.0,TJZH689137,Hokport,Construction Manager,2110,EUR,3315.04
+35,78-6640301,Alwyn,MacRirie,Commonwealth Bank of Australia,11995055843.0,TBXT860195,Daka,Construction Expeditor,2256,EUR,3544.43
+38,64-0061501,Phylis,Hamill,Commonwealth Bank of Australia,73776162147.0,AOXS437478,Acolas,Architect,1023,USD,1392.42
+40,17-8125676,Fredia,Westlake,Commonwealth Bank of Australia,67345893397.0,AVDT449488,Drubus,Electrician,1053,EUR,1654.38
+43,07-6490183,Dee dee,Klaes,Commonwealth Bank of Australia,13597017114.0,WDBU072952,Fuobert,Construction Manager,2157,EUR,3388.89
+46,20-7075408,Amara,Yakubovich,Commonwealth Bank of Australia,31255796728.0,SYFD645451,Block,Construction Manager,3759,EUR,5905.81
+48,55-9942822,Sherilyn,Esland,Commonwealth Bank of Australia,47089043499.0,AIYB830223,Odonmouth,Construction Manager,2500,EUR,3927.78
+0,68-9339013,Lissie,Lockhurst,Commonwealth Bank of Australia,935000000000.0,YNSE262285,Anbuding,Supervisor,1557,USD,2119.25
+3,61-6365586,Nikki,Kausche,Commonwealth Bank of Australia,618000000000.0,SYZA732840,Sluuchester,Electrician,2550,EUR,4006.33
+5,12-4628191,Bordie,Shere,Commonwealth Bank of Australia,698000000000.0,UPQC667337,Xokving,Project Manager,1208,EUR,1897.9
+8,01-7121524,Denver,Kalinsky,Commonwealth Bank of Australia,935000000000.0,FAKC828371,Khada,Construction Foreman,1342,EUR,2108.43
+11,96-8429689,Roseline,Pietrowski,Commonwealth Bank of Australia,96710805617.0,TGQN133566,Khorwell,Architect,3348,USD,4557.0
+13,47-2888134,Alec,Carmel,Commonwealth Bank of Australia,14462045859.0,OUVR327631,Xouport,Construction Foreman,2274,EUR,3572.71
+16,24-9506393,Tyler,Ambage,Commonwealth Bank of Australia,370000000000.0,ROPL288785,Phane,Supervisor,2403,EUR,3775.38
+19,55-7154932,Kai,Cicci,Commonwealth Bank of Australia,379000000000.0,ZBZX055164,Edolas,Construction Foreman,2551,EUR,4007.9
+21,56-9613678,Laryssa,Boatwright,Commonwealth Bank of Australia,604000000000.0,FSCL635471,Riford,Construction Foreman,0,USD,0.0
+24,24-5203709,Marlin,McDonald,Commonwealth Bank of Australia,649000000000.0,TJVS541520,Clueset,Subcontractor,3867,AUD,3867.0
+27,52-4351587,Shawnee,Gavaran,Commonwealth Bank of Australia,121000000000.0,LaHF086239,Bico,Surveyor,1271,EUR,1996.88
+29,46-3898065,Karlyn,Chittem,Commonwealth Bank of Australia,22378623291.0,XMPE521339,Anbuburg,Subcontractor,2978,USD,4053.39
+32,74-4905882,Ignatius,Tue,Commonwealth Bank of Australia,303000000000.0,VERQ836393,Sriemvine,Supervisor,1860,EUR,2922.27
+35,98-1177095,Marlin,Gatward,Commonwealth Bank of Australia,451000000000.0,HROU592415,Phofsea,Surveyor,2054,USD,2795.72
+37,33-7341908,Eveleen,,Commonwealth Bank of Australia,695000000000.0,EARI445198,Ling,Project Manager,3184,USD,4333.78
+40,04-6260389,Sheff,Vassbender,Commonwealth Bank of Australia,429000000000.0,AYLD532279,Ertonmore,Project Manager,1688,EUR,2652.04
+43,07-5518853,Jeana,Tzar,Commonwealth Bank of Australia,741000000000.0,OZAG523249,Furburgh,Surveyor,2778,EUR,4364.55
+45,50-4817231,Davita,Baukham,Commonwealth Bank of Australia,375000000000.0,QATY748169,Luxville,Construction Expeditor,2885,EUR,4532.66
+48,09-5652066,Goldi,Gail,Commonwealth Bank of Australia,883000000000.0,QAMX054201,Agleles,Supervisor,3957,EUR,6216.89
